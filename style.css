@@ -24,6 +24,13 @@ body {
   color: var(--primary-color);
 }
 
+/* Center Content Layout */
+.container {
+  max-width: 1100px; /* Restricts width */
+  margin: 0 auto; /* Centers content */
+  padding: 0 20px; /* Adds spacing on smaller screens */
+}
+
 /* Navigation Bar */
 .navbar {
   display: flex;
@@ -61,27 +68,31 @@ body {
 /* Hero Section */
 .hero {
   width: 100%;
-  height: 42.5vh; /* Reduced height by half (from 85vh to 42.5vh) */
+  height: 42.5vh; /* Reduced height by half */
   background-color: var(--secondary-color);
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 20px 0; /* Adjust padding if needed */
+  padding: 20px 0;
+}
+
+.hero-content {
+  max-width: 800px; /* Centers the hero text */
+  width: 100%;
 }
 
 .hero-content h1 {
-  font-size: 36px; /* Slightly smaller text */
+  font-size: 36px;
   font-weight: 700;
   color: var(--primary-color);
 }
 
 .hero-content p {
-  font-size: 18px; /* Adjusted font size for the subtitle */
+  font-size: 18px;
   color: var(--primary-color);
   margin-top: 5px;
 }
-
 
 /* Services Section */
 .services {
