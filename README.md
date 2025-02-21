@@ -1,5 +1,5 @@
 # ismaeltonui.github.io
-# ![Ismael K. Tonui](image.png)
+# ![Ismael K. Tonui](https://raw.githubusercontent.com/itonui/ismaeltonui.github.io/refs/heads/main/1731035070736.jpeg)
 
 # 👋 Hi, I'm Ismael K. Tonui
 
