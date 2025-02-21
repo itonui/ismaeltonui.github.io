@@ -29,7 +29,7 @@ Welcome to my GitHub page! I am a **Data Scientist** with a passion for **Risk M
 | [Nashville Air Quality Analysis](https://github.com/ismaelktonui/nashville-air-quality) | Data-driven study on air pollution trends in Nashville. | Pandas, Seaborn, SQL |
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn**: [Ismael K. Tonui](https://www.linkedin.com/in/ismaelktonui/)
+- 💼 **LinkedIn**: [Ismael K. Tonui](https://www.linkedin.com/in/ismaeltonui?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bhs%2FaQ2RYRQmeOkHX3ZMy6g%3D%3D)
 - 📧 **Email**: [itonuikipkoech@gmail.com](mailto:itonuikipkoech@gmail.com)
 - 🌍 **Portfolio**: [ismaelktonui.github.io](https://ismaelktonui.github.io)
 
